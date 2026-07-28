@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karri-jayanth-933011191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/karri-jayanth/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bento.me/jayanth-k"><img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=vercel&logoColor=black" /></a>
   <a href="https://app.letsdefend.io/user/Jayanthkarri"><img src="https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=shield&logoColor=white" /></a>
   <a href="https://x.com/JayanthKarri111"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
