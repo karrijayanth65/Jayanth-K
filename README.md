@@ -104,13 +104,15 @@ Soldier health and position tracking system monitoring real-time GPS locations a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karrijayanth65&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
+> *Note: If you see a "Failed to retrieve contributions" error on the streak card, it is a temporary GitHub API / traffic limit issue with the shared server host. The card will automatically recover once traffic normalizes.*
+
 ---
 
 ## 🏆 Cybersecurity Profiles & Certifications
 
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-Profile-blue?style=for-the-badge&logo=shield&logoColor=white)](https://app.letsdefend.io/user/Jayanthkarri)
-[![Microsoft SC-200](https://img.shields.io/badge/Microsoft%20SC--200-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/karri-jayanth-933011191)
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/karri-jayanth-933011191)
+[![Microsoft SC-200](https://img.shields.io/badge/Microsoft%20SC--200-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/in/karri-jayanth/)
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-Certified-ED1C24?style=for-the-badge&logo=comptia&logoColor=white)](https://www.linkedin.com/in/karri-jayanth/)
 
 ---
 
