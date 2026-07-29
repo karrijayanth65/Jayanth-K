@@ -100,11 +100,9 @@ Soldier health and position tracking system monitoring real-time GPS locations a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karrijayanth65&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karrijayanth65&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karrijayanth65&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karrijayanth65&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 </p>
-
-> *Note: If you see a "Failed to retrieve contributions" error on the streak card, it is a temporary GitHub API / traffic limit issue with the shared server host. The card will automatically recover once traffic normalizes.*
 
 ---
 
