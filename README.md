@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Jayanth Karri</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=SOC+Analyst+@+Mphasis+%7C+Incident+Response;Microsoft+Sentinel+%7C+Defender+XDR+%7C+CrowdStrike;Cloud+Security+%7C+Threat+Hunting+%7C+DFIR;MITRE+ATT%26CK+%7C+Log+Analysis+%7C+IOC+Enrichment" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=SOC+Analyst+@+Mphasis+%7C+Incident+Response[...]"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-**SOC Analyst @ Mphasis** passionate about **threat detection, incident response, endpoint investigation, and cloud security**[cite: 3]. I focus on analyzing real-world security alerts, mapping adversary TTPs to the MITRE ATT&CK framework, and utilizing enterprise SIEM and EDR platforms to maintain strong organizational security postures[cite: 3].
+**SOC Analyst @ Mphasis** passionate about **threat detection, incident response, endpoint investigation, and cloud security**[cite: 3]. I focus on analyzing real-world security alerts, mapping ad[...] 
 
 - 🛡️ Perform continuous security monitoring and alert analysis using **Microsoft Sentinel** and **Defender XDR**[cite: 3].
 - 🔍 Investigate phishing, malware, and endpoint indicators using **CrowdStrike Falcon**, **Devo SIEM**, and advanced security tooling[cite: 3].
@@ -124,7 +124,7 @@ Soldier health and position tracking system monitoring real-time GPS locations a
 
 ## ⚡ Fun Fact
 
-Securing cloud environments and investigating complex threat vectors requires understanding both the defender's blueprint and the attacker's methodology. Continuous monitoring and threat intelligence are the core pillars of effective incident response. 🔐
+Securing cloud environments and investigating complex threat vectors requires understanding both the defender's blueprint and the attacker's methodology. Continuous monitoring and threat intellig[...] 
 
 ---
 
