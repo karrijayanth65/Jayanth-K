@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Jayanth Karri</h1
-                                           
+                                       
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=SOC+Analyst+@+Mphasis+%7C+Incident+Response;Microsoft+Sentinel+%7C+Defender+XDR+%7C+CrowdStrike;Cloud+Security+%7C+Threat+Hunting+%7C+DFIR;MITRE+ATT%26CK+%7C+Log+Analysis+%7C+IOC+Enrichment" />
 </p>
